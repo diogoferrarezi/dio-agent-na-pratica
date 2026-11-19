@@ -74,24 +74,22 @@ Objetivo: [tirar uma ideia do papel].
 
 ## Minha entrega
 
-Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada passo, sem dados pessoais.
-
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+<img width="1118" height="556" alt="image" src="https://github.com/user-attachments/assets/1f3eaf85-0063-45cc-8c8d-402362c02880" />
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="1128" height="478" alt="image" src="https://github.com/user-attachments/assets/9c27b930-bc62-41ca-9741-0061df79e661" />
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="1117" height="476" alt="image" src="https://github.com/user-attachments/assets/c3eaa98f-aa6f-4cf5-9e70-9c37304d5da7" />
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="1117" height="407" alt="image" src="https://github.com/user-attachments/assets/f1223aef-4345-46e2-bb1c-67c87d8d6e85" />
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Muito interessante! Interagir com Antigravity foi sensacional.
